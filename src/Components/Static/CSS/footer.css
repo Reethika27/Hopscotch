@@ -1,0 +1,16 @@
+a:link {
+    color: black;
+  }
+
+  a:visited {
+    color: black;
+  }
+  
+a:focus {
+    color:rgb(216, 58, 132);
+    
+  }
+  a:hover {
+    color:rgb(216, 58, 132);
+  }
+ 
