@@ -47,9 +47,9 @@ const Banners = (props) => {
                 <FeedingCorner/>
                 <DailyCare/>
                 <CharacterShop/>
-                <ConnectWithUS/>
-                <Moments/>
                 <Explore/>
+                <Moments/> 
+                <ConnectWithUS/>
                
         </Row>
 
